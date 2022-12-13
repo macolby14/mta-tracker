@@ -1,1 +1,1 @@
-curl -v -H "x-api-key: $MTA_API_KEY" "${A_C_E_URI}"
+curl -v -H "x-api-key: $MTA_API_KEY" "${ACE_URI}"
