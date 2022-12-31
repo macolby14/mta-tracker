@@ -1,4 +1,4 @@
-module github.com/macolby14/mat-tracker
+module github.com/macolby14/mta-tracker
 
 go 1.19
 
